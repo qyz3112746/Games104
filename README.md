@@ -1,2 +1,2 @@
 # Games104
-记录games104的作业
+每个branch记录games104的作业
