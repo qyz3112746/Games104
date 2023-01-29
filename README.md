@@ -1,4 +1,4 @@
-# Games104
+# Games104 homework 2
 
 This is an achievement of HW2 in games104 task1 and task2 by changing the file of color-grading fragment shader.
 
