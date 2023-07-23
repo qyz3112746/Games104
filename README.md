@@ -27,3 +27,9 @@ Color grading on
 按照作业的状态机连接效果不佳，把idle的is_moving判断直接连接walk_run状态效果更好。
 
 实现视频：https://www.bilibili.com/video/BV17G4y1M7un/
+
+# Games104 HW4
+
+在motor中添加了 起跳初始速度属性 当这个属性不为零时以这个速度作为起跳初始速度，否则按照设定的起跳最大高度来计算初始速度。
+
+效果视频：https://www.bilibili.com/video/BV1px4y1E79U/
